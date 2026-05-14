@@ -1,0 +1,7 @@
+{
+  "api_key": "sk-2Og3MnQLN6jhj7npLLnA4RSiuXizUkrSUpKtnR4B2VR1mGwR",
+  "base_url": "https://openrouter.fans/v1",
+  "model": "claude-opus-4-6",
+  "openrouter_http_referer": "http://127.0.0.1:8000",
+  "openrouter_app_title": "On-Call Assistant"
+}

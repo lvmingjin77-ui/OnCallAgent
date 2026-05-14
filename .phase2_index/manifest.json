@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "embedding_model": "/Users/susu/Desktop/月之暗面/coding-exam-main/question-1/.local_models/bge-base-zh-v1.5",
+  "embedding_backend": "sentence-transformers",
+  "embedding_dim": 768,
+  "document_count": 10,
+  "chunk_count": 111,
+  "created_at": "2026-05-14T06:46:52.895903+00:00"
+}
